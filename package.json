@@ -1,5 +1,5 @@
 {
-    "name": "polymarket-ctf-exchange",
+    "name": "beragio-ctf-exchange",
     "scripts": {
         "test": "forge test"
     },
